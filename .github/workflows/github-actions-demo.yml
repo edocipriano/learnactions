@@ -5,6 +5,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-         chmod +x ./test/Alltest.sh
-         . test/Alltest.sh
+      - run: echo "Hello world"
