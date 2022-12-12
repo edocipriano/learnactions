@@ -1,2 +1,2 @@
 # learnactions
-![testing](https://github.com/edocipriano/learnactions/workflows/blank.yml/badge.svg)
+[![CI](https://github.com/edocipriano/learnactions/actions/workflows/blank.yml/badge.svg)](https://github.com/edocipriano/learnactions/actions/workflows/blank.yml)
